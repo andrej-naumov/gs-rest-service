@@ -1,0 +1,14 @@
+[
+  {"name": "Heathrow", "iataCode": "LHR", "country": "United Kingdom"},
+  {"name": "Hartsfield-Jackson Atlanta International Airport", "iataCode": "ATL", "country": "United States"},
+  {"name": "Tokyo Haneda Airport", "iataCode": "HND", "country": "Japan"},
+  {"name": "Beijing Capital International Airport", "iataCode": "PEK", "country": "China"},
+  {"name": "Dubai International Airport", "iataCode": "DXB", "country": "United Arab Emirates"},
+  {"name": "Los Angeles International Airport", "iataCode": "LAX", "country": "United States"},
+  {"name": "O'Hare International Airport", "iataCode": "ORD", "country": "United States"},
+  {"name": "Shanghai Pudong International Airport", "iataCode": "PVG", "country": "China"},
+  {"name": "Charles de Gaulle Airport", "iataCode": "CDG", "country": "France"},
+  {"name": "Amsterdam Airport Schiphol", "iataCode": "AMS", "country": "Netherlands"},
+  {"name": "Riga International Airport", "iataCode": "RIX", "country": "Latvia"},
+  {"name": "Sheremetyevo International Airport", "iataCode": "SVO", "country": "Russia"}
+]

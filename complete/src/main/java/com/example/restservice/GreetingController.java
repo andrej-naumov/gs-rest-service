@@ -16,4 +16,16 @@ public class GreetingController {
 	public Greeting greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
 		return new Greeting(counter.incrementAndGet(), String.format(template, name));
 	}
+
+	@GetMapping("/random")
+	public int randomInt() {
+		return 1;
+	}
+
+	@GetMapping("/book")
+	public Book randomBook() {
+		return new Book(1, "Три капитана");
+	}
+
+
 }
